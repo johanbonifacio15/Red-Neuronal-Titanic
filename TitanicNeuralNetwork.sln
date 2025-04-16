@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TitanicNeuralNetwork", "TitanicNeuralNetwork.csproj", "{FB7A82AC-42E2-4C84-9136-414FC29E9C0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB7A82AC-42E2-4C84-9136-414FC29E9C0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7A82AC-42E2-4C84-9136-414FC29E9C0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7A82AC-42E2-4C84-9136-414FC29E9C0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7A82AC-42E2-4C84-9136-414FC29E9C0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C32E062D-DF46-4392-A562-C6EFE807C732}
+	EndGlobalSection
+EndGlobal
